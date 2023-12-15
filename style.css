@@ -40,9 +40,9 @@ body{
 }
 .card-container h1{
     color: var(--Dark-blue);
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
-    margin-top: 24px;
+    margin-top: 16px;
 }
 .card-container p{
     font-size: var(--font-p);
